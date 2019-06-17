@@ -1,6 +1,7 @@
 {
   "name": "facerecog-api",
   "version": "1.0.0",
+  "engines": {"node": "12.4.0", "yarn":"1.16.0"},
   "main": "index.js",
   "scripts": {
     "start": "nodemon server.js"
